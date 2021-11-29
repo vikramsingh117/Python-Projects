@@ -1,7 +1,7 @@
 # Face-detection
 this is my first project :D
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-import numpy as np
+```import numpy as np
 
 import cv2
 
@@ -131,9 +131,6 @@ trainset=np.concatenate((facedataset,facelabels),axis=1)
 
 print(trainset.shape)
 
-
-
-
 while True:
 
     ret,frame = cap.read()
@@ -159,3 +156,4 @@ while True:
 cap.release()
 
 cv2.destroyAllWindows()
+```
