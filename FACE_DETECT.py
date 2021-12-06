@@ -1,7 +1,8 @@
 # Face-detection
-this is my first project :D
+# this is my first project :D
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-```import numpy as np
+```
+import numpy as np
 
 import cv2
 
@@ -63,9 +64,10 @@ print("data saved at "+datapath+filename+".npy")
 
 cap.release()
 cv2.destroyAllWindows()
+```
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+```
 import os
 import numpy as np
 import cv2
