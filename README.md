@@ -1,2 +1,2 @@
 # Projects
-this contains all the projects ive done. take what you want ;)
+this contains all the simple projects ive done
