@@ -1,4 +1,3 @@
-from numpy import mat
 import pygame
 import random
 import math
@@ -107,3 +106,10 @@ while run:
     enemy(enemyx,enemyy)
     
     pygame.display.update()
+    
+# IMAGES USED FROM FLAT ICONS
+# BULLET:https://www.flaticon.com/free-icon/bullet_224681?term=bullet&page=1&position=3&page=1&position=3&related_id=224681&origin=search
+# SHIP:https://www.flaticon.com/premium-icon/spaceship_1985789?term=spaceship&page=1&position=2&page=1&position=2&related_id=1985789&origin=search
+# ENEMY:https://www.flaticon.com/free-icon/enemy_1477179?term=enemy&page=1&position=1&page=1&position=1&related_id=1477179&origin=search
+# ALL ABOVE IN 64B
+# BACKGROUND:WHATEVER U LIKE, CANT FIND MY BG ANYMORE
